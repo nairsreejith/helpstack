@@ -1,2 +1,2 @@
 # helpstack
-A sample QnA forum application for Android platform.
+A sample QnA forum app for Android platform.
